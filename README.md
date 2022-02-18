@@ -1,5 +1,5 @@
 # MRI-Augmentation
-A 3D Augmentation Tool for MRI Images
+A 2D/3D Augmentation Tool for MRI Images
 <br />
 
 # Description
@@ -8,19 +8,21 @@ The MRI-Augmentation tool can be applied to MRI images to create plausible noisy
 
 # Algorithm
 
-**Elastic deformation:** deforms 3D images using random displacement fields.
+**Elastic deformation:** deforms images using random displacement fields.
 <br />
-**Intensity inhomogeneity:** generates random intensity inhomogeneity in 3D images.
+**Intensity inhomogeneity:** generates random intensity inhomogeneity in images.
 <br />
-**Gibbs ringing:** generates random Gibbs ringing (oscillation) artefact in 3D images.
+**Gibbs ringing:** generates random Gibbs ringing (oscillation) artefact in images.
 <br />
-**Motion ghosting:** generates random motion ghosting artefact in 3D images.
+**Motion ghosting:** generates random motion ghosting artefact in images.
 <br />
-**Additive noise:** introduces random zero-mean Gaussian noise to 3D images.
+**Additive noise:** introduces random zero-mean Gaussian noise to images.
 <br />
-**Multiplicative noise:** introduces random zero-mean speckle noise to 3D images.
+**Multiplicative noise:** introduces random zero-mean speckle noise to images.
 <br />
-**Rotation:** randomly rotates 3D images around the axes.
+**Rotation:** randomly rotates images about the axes.
+<br />
+**Mirroring:** randomly flips images about the axes.
 <br />
 
 # Citation
