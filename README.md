@@ -24,6 +24,8 @@ The MRI-Augmentation tool can be applied to MRI images to create plausible noisy
 <br />
 **Mirroring:** randomly flips images about the axes.
 <br />
+**Blurring:** generates blurring artefact in images.
+<br />
 
 # Citation
 When you publish your research using this toolbox, please cite [1] as
