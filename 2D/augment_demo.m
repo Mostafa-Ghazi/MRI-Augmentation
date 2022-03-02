@@ -113,3 +113,13 @@ end
 
 figure, imshow(Y8); % flipped image slice
 title('Flipped Image Slice');
+
+%% Blurring
+
+timeRatio = 3; % ratio of the total k-space time to T2* time
+dim = 2; % performed artefact dimension
+
+Y9 = blurring(X12, timeRatio, dim); % image blurring
+
+figure, imshow(uint8(Y9)); % blurred image slice
+title('Blurred Image Slice');
