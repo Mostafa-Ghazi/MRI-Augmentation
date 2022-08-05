@@ -33,7 +33,7 @@ When you publish your research using this toolbox, please cite [1] as
 <br />
 @Article{Ghazi2022,
 <br />
-  title = {FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain},
+  title = {{FAST-AID Brain}: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain},
   <br />
   author = {Ghazi, Mostafa Mehdipour and Nielsen, Mads},
   <br />
@@ -43,15 +43,13 @@ When you publish your research using this toolbox, please cite [1] as
   <br />
   pages = {},
   <br />
-  year = {},
+  year = {2022},
   <br />
-  publisher = {},
-  <br />
-}
+  publisher = {},}
 <br />
 
 # References
-[1] Ghazi, M. M., Nielsen, M. FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain. arXiv preprint arXiv:XXXX.YYYY, 2022.
+[1] Mehdipour Ghazi, M., Nielsen, M., 2022. FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain. arXiv preprint arXiv:XXXX.YYYY.
 <br />
 
 Contact: mostafa.mehdipour@gmail.com
