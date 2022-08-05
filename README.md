@@ -35,7 +35,7 @@ When you publish your research using this toolbox, please cite [1] as
 <br />
   title = {{FAST-AID Brain}: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain},
   <br />
-  author = {Ghazi, Mostafa Mehdipour and Nielsen, Mads},
+  author = {Mehdipour Ghazi, Mostafa and Nielsen, Mads},
   <br />
   journal = {},
   <br />
