@@ -37,7 +37,7 @@ When you publish your research using this toolbox, please cite [1] as
   <br />
   author = {Mehdipour Ghazi, Mostafa and Nielsen, Mads},
   <br />
-  journal = {},
+  journal = {arXiv preprint},
   <br />
   volume = {},
   <br />
@@ -45,11 +45,15 @@ When you publish your research using this toolbox, please cite [1] as
   <br />
   year = {2022},
   <br />
-  publisher = {},}
+  doi = {10.48550/ARXIV.2208.14360},
+  <br />
+  url = {https://arxiv.org/abs/2208.14360},
+  <br />
+  publisher = {arXiv},}
 <br />
 
 # References
-[1] Mehdipour Ghazi, M., Nielsen, M., 2022. FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain. arXiv preprint arXiv:XXXX.YYYY.
+[1] Mehdipour Ghazi, M., Nielsen, M., 2022. FAST-AID Brain: Fast and Accurate Segmentation Tool using Artificial Intelligence Developed for Brain. arXiv preprint arXiv:2208.14360.
 <br />
 
 Contact: mostafa.mehdipour@gmail.com
