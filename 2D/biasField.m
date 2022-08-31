@@ -11,7 +11,7 @@ function imageSlice = biasField(imageSlice)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%  This code is an implementation of the algorithm published in:  %%%%%
 %%%%%                          FAST-AID Brain                         %%%%%
-%%%%%                https://arxiv.org/abs/XXXX.YYYYY                 %%%%%
+%%%%%                https://arxiv.org/abs/2208.14360                 %%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Random intensity inhomogeneity generation in 2D images
