@@ -47,8 +47,6 @@ When you publish your research using this toolbox, please cite [1] as
   <br />
   doi = {10.48550/ARXIV.2208.14360},
   <br />
-  url = {https://arxiv.org/abs/2208.14360},
-  <br />
   publisher = {arXiv},}
 <br />
 
