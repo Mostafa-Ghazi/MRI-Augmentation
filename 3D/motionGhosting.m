@@ -11,7 +11,7 @@ function imageVolume = motionGhosting(imageVolume, alpha, numReps, p)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%  This code is an implementation of the algorithm published in:  %%%%%
 %%%%%                          FAST-AID Brain                         %%%%%
-%%%%%                https://arxiv.org/abs/XXXX.YYYYY                 %%%%%
+%%%%%                https://arxiv.org/abs/2208.14360                 %%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Random motion ghosting artefact generation in 3D images
